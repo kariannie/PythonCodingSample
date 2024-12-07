@@ -1,3 +1,3 @@
 Python Coding Sample 
 
-This is a shortened version of my final project for INFO 1998, a class run by the Cornell Data Science project team at Cornell. In this project, we utilized techniques such as preprocessing, manipulation, and creating visualizations, and finished by building machine learning models to run predictive analysis on our dataset.
+This is a shortened version of my final project for INFO 1998, a class run by the Cornell Data Science project team at Cornell. In this project, I utilized techniques such as preprocessing, manipulation, and creating visualizations, and finished by building machine learning models to run predictive analysis on our dataset. This was my first exposure to Python, numpy, and other packages such as matplotlib and sklearn. In this coding sample, I have chosen the sections of the code that I worked on most heavily, and kept enough material to keep the project flow and conclusion. 
